@@ -1,5 +1,8 @@
-import React, {FormEventHandler} from "react";
+import React from "react";
 import {RoleCard} from "@/components/RoleCard";
+import {Nav} from "@/components/Nav";
+import "../app/globals.css";
+import {shuffle} from "@/lib/utils";
 
 const QUIZ = [
     {question: 'What does this person/group even do???', answer: '*'},
@@ -142,6 +145,11 @@ const ROLES = [
 const Index = () => {
     const [questionIndex, setQuestionIndex] = React.useState<number>(0);
     const [selected, setSelected] = React.useState<string | null>(null);
+    const [questions, setQuestions] = React.useState<any[]>([]);
+
+    React.useEffect(() => {
+        setQuestions(shuffle(QUIZ));
+    }, []);
 
     const handleSelection = (title) => {
         if (selected === title) {
@@ -156,14 +164,14 @@ const Index = () => {
     }
 
     return (
-        <form>
-            <p>{QUIZ[questionIndex].question}</p>
-            <>
+        <div>
+            <Nav question={questions[questionIndex]?.question}/>
+            <div className={'mt-20'}>
                 {ROLES.map((r, idx) => {
                     return <RoleCard key={`roles-${idx}`} role={r} selected={selected} setSelected={handleSelection}/>;
                 })}
-            </>
-        </form>
+            </div>
+        </div>
     );
 }
 
