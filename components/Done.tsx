@@ -14,7 +14,7 @@ const Done = () => {
                 Thank you for taking the quiz!
             </p>
             <Image alt="Auth.js logo"
-                   src="/../public/Guess-Who.jpg"
+                   src="/Guess-Who.jpg"
                    width={windowSize.width || 100}
                    height={windowSize.width || 100}
             />
