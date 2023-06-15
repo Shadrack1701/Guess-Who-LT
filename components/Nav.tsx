@@ -4,7 +4,7 @@ import useScroll from "@/lib/hooks/use-scroll";
 import React from "react";
 
 const Nav = ({question}: { question: string }) => {
-    const scrolled = useScroll(15);
+    const scrolled = useScroll(10);
 
     return (
         <>

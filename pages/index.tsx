@@ -166,7 +166,7 @@ const Index = () => {
     return (
         <div>
             <Nav question={questions[questionIndex]?.question}/>
-            <div className={'mt-20'}>
+            <div style={{marginTop: '5rem'}}>
                 {ROLES.map((r, idx) => {
                     return <RoleCard key={`roles-${idx}`} role={r} selected={selected} setSelected={handleSelection}/>;
                 })}
