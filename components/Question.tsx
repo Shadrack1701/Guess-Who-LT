@@ -3,7 +3,7 @@
 import useScroll from "@/lib/hooks/use-scroll";
 import React from "react";
 
-const Nav = ({question}: { question: string }) => {
+const Question = ({question}: { question: string }) => {
     const scrolled = useScroll(10);
 
     return (
@@ -26,4 +26,4 @@ const Nav = ({question}: { question: string }) => {
     );
 }
 
-export {Nav};
+export {Question};
