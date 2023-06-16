@@ -76,8 +76,8 @@ const QUIZ: Quiz[] = [
     {question: 'I took a trip for work, how do I get reimbursed?', correctAnswer: 'Finance'},
     {question: 'I have a question about my timesheet', correctAnswer: 'Finance'},
     {question: 'I got a new bank, how do I update my direct deposit.', correctAnswer: 'Finance'},
-    {question: 'I need a copy of my paystubs, how do I do that?', correctAnswer: 'Finance'},
-    {question: 'I need ot update my W4 withholdings', correctAnswer: 'Finance'},
+    {question: 'I need a copy of my pay-stubs, how do I do that?', correctAnswer: 'Finance'},
+    {question: 'I need to update my W4 with-holdings', correctAnswer: 'Finance'},
     {question: 'How can I get reimbursed for trainings or books?', correctAnswer: 'Finance'},
     {question: 'Does LT have a branded presentation that I can use?', correctAnswer: 'Marketing'},
     {question: 'I have a blog idea but I would like help writing it', correctAnswer: 'Marketing'},
@@ -170,7 +170,7 @@ const Index = () => {
     const [finishedQuiz, isQuizFinished] = useCheckPreviousCompletion();
 
     React.useEffect(() => {
-        setQuestions(shuffle(QUIZ));
+        setQuestions(shuffle(QUIZ).slice(0, 40));
     }, []);
 
     React.useEffect(() => {
