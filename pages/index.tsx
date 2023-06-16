@@ -58,7 +58,6 @@ const QUIZ: Quiz[] = [
         correctAnswer: 'Human Resources'
     },
     {question: "What is LT's Parental leave policy?", correctAnswer: 'Human Resources'},
-    {question: 'I have some feedback for a co-worker I would like to formally give.', correctAnswer: 'Human Resources'},
     {question: 'Carlson said something offensive', correctAnswer: 'Human Resources'},
     {question: 'I am the only LT-er on my team, how do I get feedback?', correctAnswer: 'Human Resources'},
     {question: 'I need to put in my two weeks notice', correctAnswer: 'Human Resources'},
