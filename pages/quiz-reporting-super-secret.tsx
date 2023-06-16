@@ -1,5 +1,6 @@
 import React from "react";
 import {QUIZ, Role, ROLES} from "@/pages/index";
+import '../app/globals.css';
 
 type AnswerResponse = {
     id: string;
@@ -94,6 +95,7 @@ const QuizReportingSuperSecret = () => {
     const [answers, setAnswers] = React.useState<AnswerResponse[]>([]);
     const [groupedQuestions, setGroupedQuestions] = React.useState<GroupedQuestion[]>([]);
     const [groupedRoles, setGroupedRoles] = React.useState<GroupedRole[]>([]);
+    const [display, setDisplay] = React.useState<string | null>(null);
 
     React.useEffect(() => {
         answers.length === 0 ?
@@ -111,7 +113,6 @@ const QuizReportingSuperSecret = () => {
                 .catch(err => console.log(JSON.stringify(err, null, 2)))
             : groupedQuestions.length === 0 && groupShiz();
     }, [answers]);
-
 
     const groupShiz = () => {
         let answerResponse: AnswerResponse;
@@ -135,9 +136,58 @@ const QuizReportingSuperSecret = () => {
         setGroupedRoles(tempGRS);
     }
 
+    const handleClick = (choice: string) => {
+        if (display === choice) {
+            setDisplay(null);
+        } else setDisplay(choice);
+    };
+
     return (
         <div>
-            <p>{JSON.stringify(groupedRoles)}</p>
+            <div style={{
+                display: 'flex',
+                flexDirection: 'row',
+                width: '100%',
+                justifyContent: 'space-evenly',
+                alignItems: 'center',
+                paddingBottom: '1rem',
+                paddingTop: '1rem'
+            }}>
+                <button
+                    style={{
+                        color: 'white',
+                        paddingLeft: '1rem',
+                        paddingRight: '1rem',
+                        paddingTop: '.5rem',
+                        paddingBottom: '.5rem',
+                        fontWeight: 'bold',
+                        borderRadius: '.25rem',
+                        backgroundColor: 'blue'
+                    }}
+                    onClick={() => handleClick('role')}>Results by Role
+                </button>
+                <button
+                    style={{
+                        color: 'white',
+                        paddingLeft: '1rem',
+                        paddingRight: '1rem',
+                        paddingTop: '.5rem',
+                        paddingBottom: '.5rem',
+                        fontWeight: 'bold',
+                        borderRadius: '.25rem',
+                        backgroundColor: 'blue'
+                    }}
+                    onClick={() => handleClick('question')}>Results by Question
+                </button>
+            </div>
+            {
+                display === 'role' &&
+                <p>{JSON.stringify(groupedRoles)} </p>
+            }
+            {
+                display === 'question' &&
+                <p>{JSON.stringify(groupedQuestions)}</p>
+            }
         </div>
     );
 }

@@ -5,9 +5,6 @@ const RoleCard = (props) => {
 
     return (
         <div>
-            {selected?.title === title &&
-                <p style={{margin: 0, color: 'green', textAlign: 'center', fontWeight: 'bold'}}>Select Again To Choose
-                    As Answer</p>}
             <div style={{
                 border: selected?.title === title ? '2px solid green' : '1px solid black',
                 padding: '.5rem',
@@ -17,6 +14,9 @@ const RoleCard = (props) => {
             }}
                  onClick={() => setSelected(props.role)}
             >
+                {selected?.title === title &&
+                    <p style={{margin: 0, color: 'green', textAlign: 'center', fontWeight: 'bold'}}
+                    >Select Again To Choose As Answer</p>}
                 <p style={{fontWeight: 'bold', fontSize: '1.2rem', textAlign: 'center', margin: 0}}>{title}</p>
                 <p style={{fontSize: '1.2rem', textAlign: 'center', margin: 0}}>{names}</p>
                 {selected?.title === title &&

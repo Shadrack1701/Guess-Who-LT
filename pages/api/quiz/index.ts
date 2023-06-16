@@ -1,7 +1,6 @@
 import prisma from "../../../lib/prisma";
-import {AnswerResponse} from "@/pages/quiz-reporting-super-secret";
 
-// POST /api/quiz
+// /api/quiz
 const handle = async (req, res) => {
     if (req.method === 'POST') {
         const result = await prisma.quiz.create({
