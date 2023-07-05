@@ -1,0 +1,5490 @@
+[
+	[{
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a new service offering",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I have some feedback for a co-worker I would like to formally give.",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Questions about an LT event (is it kid friendly etc)",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "My laptop sounds like the Jetson's car...I may need a new one",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I purchased dinner for a client, how do I get reimbursed for that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How do I access my benefits online?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need ot update my W4 withholdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What is LT's Parental leave policy?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my paystubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Having issues on a project and the client isn't upset yet",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Who do I go to, to have a laugh?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}],
+	[{
+		"userQuestion": {
+			"question": "Who do I go to, to have a laugh?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Questions about an LT event (is it kid friendly etc)",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a new service offering",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "My laptop sounds like the Jetson's car...I may need a new one",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}],
+	[{
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Who do I go to, to have a laugh?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I purchased dinner for a client, how do I get reimbursed for that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "My laptop sounds like the Jetson's car...I may need a new one",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}],
+	[{
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Questions about an LT event (is it kid friendly etc)",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What is LT's Parental leave policy?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I purchased dinner for a client, how do I get reimbursed for that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}],
+	[{
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Who do I go to, to have a laugh?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Questions about an LT event (is it kid friendly etc)",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "My laptop sounds like the Jetson's car...I may need a new one",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What is LT's Parental leave policy?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}],
+	[{
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Having issues on a project and the client isn't upset yet",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "My laptop sounds like the Jetson's car...I may need a new one",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}],
+	[{
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Having issues on a project and the client isn't upset yet",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What is LT's Parental leave policy?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "How do I access my benefits online?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Who do I go to, to have a laugh?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}],
+	[{
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "How do I access my benefits online?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a new service offering",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "My laptop sounds like the Jetson's car...I may need a new one",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Who do I go to, to have a laugh?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}],
+	[{
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I purchased dinner for a client, how do I get reimbursed for that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Questions about an LT event (is it kid friendly etc)",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a new service offering",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Who do I go to, to have a laugh?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "How do I access my benefits online?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}],
+	[{
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "What is LT's Parental leave policy?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I purchased dinner for a client, how do I get reimbursed for that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}],
+	[{
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Questions about an LT event (is it kid friendly etc)",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a new service offering",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Having issues on a project and the client isn't upset yet",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}],
+	[{
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Who do I go to, to have a laugh?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How do I access my benefits online?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "My laptop sounds like the Jetson's car...I may need a new one",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I purchased dinner for a client, how do I get reimbursed for that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a new service offering",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}],
+	[{
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Having issues on a project and the client isn't upset yet",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Questions about an LT event (is it kid friendly etc)",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "How do I access my benefits online?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}],
+	[{
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a new service offering",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}],
+	[{
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Who do I go to, to have a laugh?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I purchased dinner for a client, how do I get reimbursed for that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "How do I access my benefits online?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a new service offering",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "What is LT's Parental leave policy?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}],
+	[{
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Questions about an LT event (is it kid friendly etc)",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a new service offering",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "My laptop sounds like the Jetson's car...I may need a new one",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}],
+	[{
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "My laptop sounds like the Jetson's car...I may need a new one",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}],
+	[{
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I heard about a company that is desperate for IT resources",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "How do I access my benefits online?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Having issues on a project and the client isn't upset yet",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}],
+	[{
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What does being on the bench mean?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need a copy of my pay-stubs, how do I do that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What is LT's Parental leave policy?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "A friend of mine is looking for work",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I purchased dinner for a client, how do I get reimbursed for that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}],
+	[{
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "What should I do if I don't feel LT is a safe environment for employees?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "How do I get more active in the tech community?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Who is the head TDD priest of LT?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I need a Jetbrains (or other) license",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Having issues on a project and the client isn't upset yet",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Need an expert resource for specific technology questions.",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "What is LT's Parental leave policy?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I am having trouble with one of my teammates, can you help?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Technical conflict resolution",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Where can I find LT branding documentation",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Tell me more about our Cloud Provider partnerships",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What does an engineering lead even do?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}],
+	[{
+		"userQuestion": {
+			"question": "How do I know if I am doing a good job at my client?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Can I stay in one of your many vacation homes?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Questions about an LT event (is it kid friendly etc)",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What does this person/group even do???",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I just moved, how do I update my address?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I want to attend a college job fair to promote LT",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "What is LT's Parental leave policy?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I need to update my W4 with-holdings",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "Problems with an upset client my team is having a hard time resolving",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "How do I access my benefits online?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "My laptop sounds like the Jetson's car...I may need a new one",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I have a DEI idea/question",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a viral marketing campaign",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Who's ugly black mercedes is this?",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "Are LT meetings mandatory? How do I track that time?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Who do I go to, to have a laugh?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I took a trip for work, how do I get reimbursed?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}],
+	[{
+		"userQuestion": {
+			"question": "The office is too hot, how do I turn it down?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I have a blog idea but I would like help writing it",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I got a new bank, how do I update my direct deposit.",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What technical training is available to me?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Does LT hire interns?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Our team is looking for someone with a certain skill set",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "How can I get reimbursed for trainings or books?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I would like a piece of equipment for my work/home office",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "I would like to change projects. How do I do that?",
+			"correctAnswer": "Customer Success Managers"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "How do I get to the next level of my career",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I purchased dinner for a client, how do I get reimbursed for that?",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "I have a lead at a potential client",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "LT Underwear???",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Does LT have a branded presentation that I can use?",
+			"correctAnswer": "Marketing"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "I am having issues with JumpCloud access",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "The dogs in the office are driving me crazy!",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Facilities"
+	}, {
+		"userQuestion": {
+			"question": "Current job openings",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Having issues on a project and the client isn't upset yet",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "Looking for client specific technology direction",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "Who do I want to join my happy hour?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I see a need for training (can be client specific)",
+			"correctAnswer": "Engineering Leadership"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "I heard a company mention a digital transformation need",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "What are other projects within LT that are available to me?",
+			"correctAnswer": "Talent Acquisition"
+		},
+		"givenAnswer": "Customer Success Managers"
+	}, {
+		"userQuestion": {
+			"question": "I need someone to fill the silence in my meetings",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "Talent Acquisition"
+	}, {
+		"userQuestion": {
+			"question": "Where do we want LT to be in 10 years?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I need to put in my two weeks notice",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I am the only LT-er on my team, how do I get feedback?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "Carlson said something offensive",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "I want to hear an off color joke",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "My home situation has changed (baby, spouse etc), how do I update my benefits?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "What is LT's Parental leave policy?",
+			"correctAnswer": "Human Resources"
+		},
+		"givenAnswer": "Human Resources"
+	}, {
+		"userQuestion": {
+			"question": "I have a question about my timesheet",
+			"correctAnswer": "Finance"
+		},
+		"givenAnswer": "Finance"
+	}, {
+		"userQuestion": {
+			"question": "What are our 2024 goals as a company?",
+			"correctAnswer": "CGO/Integrator"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "How do I present at Lean Bytes?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Director of Engineering"
+	}, {
+		"userQuestion": {
+			"question": "What tech should I be learning?",
+			"correctAnswer": "Director of Engineering"
+		},
+		"givenAnswer": "Engineering Leadership"
+	}, {
+		"userQuestion": {
+			"question": "I have an idea for a new service offering",
+			"correctAnswer": "CIO/Service Delivery"
+		},
+		"givenAnswer": "CIO/Service Delivery"
+	}, {
+		"userQuestion": {
+			"question": "How much money is LT making?",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CGO/Integrator"
+	}, {
+		"userQuestion": {
+			"question": "I want to play a game of pool",
+			"correctAnswer": "CEO/Visionary"
+		},
+		"givenAnswer": "CEO/Visionary"
+	}, {
+		"userQuestion": {
+			"question": "Who can I go to for hair/fashion advice?",
+			"correctAnswer": "*"
+		},
+		"givenAnswer": "Marketing"
+	}, {
+		"userQuestion": {
+			"question": "Someone keeps missing the urinal...it is gross. What can we do?",
+			"correctAnswer": "Facilities"
+		},
+		"givenAnswer": "Facilities"
+	}]
+]
